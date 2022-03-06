@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjaniashvili
-- 👀 I’m interested in Informational Technologies, Programming and Graphic Design.
+- 👀 I’m interested in Informational Technologies, Programming and Graphic Design. 
 <br>
-I'm certified IT Specialist and also beginner frontend developer, too.
+I'm IT Specialist and Junior Frontend Developer.
 - I have knowledge in several programming languages, including HTML , 
 CSS (one of it's pre-processor which is SCSS), 
 JS and some of it's frameworks + jQuery , Vue.js (Basics).
